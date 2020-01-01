@@ -1,2 +1,2 @@
-This is sample automation project for OrangeHrm website. This maven project is developed using Page object model design pattern using Java 
-and Selenium. The test cases are developed using TestNG whereas libraries uses Selenium webdriver. 
+This is automation project for OrangeHrm website.This maven project is developed using Page object model design pattern using Java and Selenium. The whole purpose of this project is not to automate the test cases of orangehrm web application but to understand how POM is used and also how to develop libraries to make life easy while automating test cases. These libraries and project files can be used against another project by making minimal changes and bring up new automation framework quickly.
+The test cases are developed using TestNG whereas libraries uses Selenium webdriver. 
